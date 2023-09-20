@@ -204,7 +204,7 @@
       },
       "text": {
         "headline": "CBEADS©: A framework to support meta-design paradigm",
-        "text": ""
+        "text": "We have developed a meta-model for Business applications. To generate applications using this meta-model we created a Component Based EBusiness Application Development and Deployment Shell; CBEADS©.The meta-model we created was based on three abstraction levels: Shell, Applications and Functions. The Shell provides the functionality common to any Web-based Business Application, and a set of configurable components and tools to create functions that are specific to an application. By using CBEADS© we can rapidly develop Web-based Business Applications by creating instances of the meta-model based on the Meta Design Paradigm. The key aspect that underpinned this research work was the viewpoint that “software is a medium to capture knowledge rather than a product”. The developer’s knowledge is embedded into the shell and the tools. The End-user’s knowledge is used to populate instances of the meta-model from which applications are generated within CBEADS©."
       }
     },
     {
