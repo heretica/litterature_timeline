@@ -24,7 +24,7 @@
       },
       "text": {
         "headline": "User involvement in design of a safety-critical operating panel system",
-        "text": ""
+        "text": "The design of complex systems requires expertise of various kinds. In particular, expert users with operative experience can have much to say, even though their voices are always not been heard during design. In this paper, we provide an analysis of a real-life example, that is, the involvement of end-users in the design of a human-system interface for safety-critical operations of a nuclear power plant during a period extending over three decades. During this period, growing safety regulations and technological advances have been key motivators to design changes. At the same time, increasing expertise of operators makes them more proficient to comment those changes and engage in their implementation. In presenting empirical insights from several phases of the control room life cycle, we discuss the benefits, as well as the challenges, of user involvement in the design of complex systems and reflect on those in the light of our example case. Generally, we found that the user-designer interaction is most often built around concrete design artifacts such as mock-ups and prototypes and takes place later phases of design. Furthermore, user involvement often lacks rigor and depth that would help to comprehend the work activity and enable critical reflection of this generic understanding to foresee the overall vision for future work. A close look at historical turns of user involvement in one particular example provides insights that enable us to develop a general account of human-centered design in safety-critical domain."
       }
     },
     {
