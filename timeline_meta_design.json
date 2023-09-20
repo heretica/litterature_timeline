@@ -1,3 +1,4 @@
+
 {
     "title": {
         "media": {
@@ -11,9 +12,10 @@
         }
     },
     "events": [
-        
         {
-            "media": {},
+            "media": {
+                
+            },
             "start_date": {
                 "year": 2023
             },
