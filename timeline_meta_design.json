@@ -6,24 +6,12 @@
             "credit": ""
         },
         "text": {
-            "headline": "Les environnements de Meta-design",
-            "text": "<p>par Heretica</p>"
+            "headline": "Les environnements de Meta-design ",
+            "text": "<p>Une revue de littérature par Heretica</p>"
         }
     },
     "events": [
-        {
-            "media": {
-                "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/premiere_hallucination.jpg",
-                "caption": "Samervell et Norton"
-            },
-            "start_date": {
-                "year": "1924"
-            },
-            "text": {
-                "headline": "Première hallucination répertoriée",
-                "text": "Somervell et Norton témoigne de la première hallucination après avoir atteint l'altitude de 8570m dans le face Nord de l'Everest"
-            }
-        },
+        
         {
             "media": {},
             "start_date": {
