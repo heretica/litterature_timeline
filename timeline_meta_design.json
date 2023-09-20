@@ -3,8 +3,8 @@
     "title": {
         "media": {
             "url": "https://raw.githubusercontent.com/ArthurSrz/book_timeline/main/media/book_cover.png",
-            "caption": " ",
-            "credit": " "
+            "caption": "Hereretica",
+            "credit": ""
         },
         "text": {
             "headline": "Les environnements de Meta-design ",
@@ -13,11 +13,9 @@
     },
     "events": [
         {
-            "media": {
-                
-            },
+            "media": {},
             "start_date": {
-                "year": 2023
+                "year": "2023"
             },
             "text": {
                 "headline": "An Example-Based Instructional Method to Develop Students’ Problem-Solving Efficacy in an Introductory Programming Course",
