@@ -13,7 +13,6 @@
     },
     "events": [
         {
-            "media": {},
             "start_date": {
                 "year": "2023"
             },
@@ -23,9 +22,8 @@
             }
         },
         {
-            "media": {},
             "start_date": {
-                "year": 2023
+                "year": "2023"
             },
             "text": {
                 "headline": "Workarounds as generative mechanisms for bottom-up process innovation—Insights from a multiple case study",
