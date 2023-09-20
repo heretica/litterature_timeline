@@ -145,12 +145,16 @@
       }
     },
     {
+      "media": {
+        "url": "",
+        "caption":"figure"
+      },
       "start_date": {
         "year": 2016
       },
       "text": {
         "headline": "Designing for advanced personalization in personal task management",
-        "text": ""
+        "text": "Many applications provide personalization mechanisms through which users can make changes to adapt a system to better fit their needs or preferences. However, advanced personalization, such as extending system functionality, is often only available to programmers. Building on ideas from end-user programming and personalization literature, we developed an adaptable task management tool that allows advanced personalization using a self-disclosing mechanism and a guided scripting mechanism, ScriPer. We present our design process, its outcome, and the results of a user study (n=24). Participants, even those with no to some background in programming, were able to use ScriPer to perform advanced personalization (in 142 of 144 trials). We also found error patterns differed across programming expertise."
       }
     },
     {
