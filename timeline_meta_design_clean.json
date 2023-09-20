@@ -136,12 +136,16 @@
       }
     },
     {
+      "media": {
+        "url": "https://raw.githubusercontent.com/heretica/litterature_timeline/main/media/block_construction.png",
+        "caption":"figure"
+      },
       "start_date": {
         "year": 2016
       },
       "text": {
         "headline": "BitBlox: A redesign of the Breadboard",
-        "text": ""
+        "text": "Building physical computing projects can enable learners to integrate computing into a range of interests and disciplines. However, the electronic portion of these projects can be difficult. Students are learning new concepts as well as how to work with new tools. This influx of information can be difficult for students to retain in their working memory as they construct their circuits. In this paper, we introduce BitBlox, a set of modular, solderless Breadboards for prototyping circuits. BitBlox attempts to decrease the cognitive load on the user by reducing the complexity found in the standard Breadboard by bringing visibility to the underlying connections within its modules. We present a comparative classroom study integrating the Breadboard and BitBlox into two different high school classes. Our qualitative analysis focuses on student errors, strategies, and collaborative practices, highlighting important dynamics for designing hardware tools."
       }
     },
     {
