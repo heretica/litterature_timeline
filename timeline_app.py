@@ -26,7 +26,7 @@ JS_PATH = 'timeline3/js/timeline.js'
 
 SOURCE_TYPE = 'json' # json or gdocs
 GDOCS_PATH = 'https://docs.google.com/spreadsheets/u/1/d/1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk/pubhtml' # example url
-JSON_PATH = 'timeline_meta_design.json' # example json
+JSON_PATH = 'timeline_meta_design_modified.json' # example json
 
 TL_HEIGHT = 800 # px
 
