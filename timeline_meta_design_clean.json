@@ -177,7 +177,7 @@
       },
       "text": {
         "headline": "Toward an analytic framework for understanding and fostering peer-support communities in using and evolving software products",
-        "text": ""
+        "text": "The fundamental challenge for social computing is to contribute to fostering communities in which humans can transcend the limitation of the unaided,individual human mind by helping each other.Going beyond antidotal examples requires an analytical framework in which to interpret data in order to understand the context- and application-specific nature of these collaborations. We have studied peer-support communities (PSCs) in the context of the SAP Community Network (SCN), which relies on forums and conferences to support their collaboration.This research attempts to create a deeper understanding of the effectiveness of social support provided by peers in software development communities from the following perspectives: Responsiveness--how responsive are communities to the needs of its members? ; Engagement Intensity--how timely is the peer support? ; Role Distribution--how wide is the participation of users and in what kind of roles do they participate? ; Reward System--what is the impact of explicit reward (point) systems on community behavior ? The data gained from analyzing these perspectives (and their comparison with open source software peer-support communities) has provided insights and led to an increased understanding of what works in PSCs. Here we articulate some initial design guidelines to further improve the potential benefits gained from these communities."
       }
     },
     {
