@@ -11,39 +11,11 @@
   "events": [
     {
       "start_date": {
-        "year": 2023
-      },
-      "text": {
-        "headline": "Human-Centred AI in Education in the Age of Generative AI Tools",
-        "text": "Artificial intelligence (AI) based on machine learning, neural networks, and large language
-models has created an enormous interest during the past year, peaking with the release of
-ChatGPT (GPT 3.5) at the end of 2022. The educational sector has been in turmoil as
-knowledge acquisition, effective teaching, and meaningful learning experiences are its
-foundational building blocks. In the following position paper, we explore how human-centered
-AI (HCAI) can be a useful perspective on AI in the age of generative AI (GAI) for the
-educational sector. However, we also suggest taking advantage of GAI tools to prepare the
-next generation of students for a future workplace requiring informed interaction with AI tools.
-We argue there is a lot of potential for applying AI in education, which can be advantageous
-for both teachers and students to increase the educational experience. However, there are also
-major challenges. For example, GAI tools do not yet align with learning theories that p"
-      }
-    },
-    {
-      "start_date": {
-        "year": 2022
-      },
-      "text": {
-        "headline": "Thirty years of Artificial Intelligence and Law: the first decade",
-        "text": ""
-      }
-    },
-    {
-      "start_date": {
         "year": 2022
       },
       "text": {
         "headline": "Understanding the Practices and Challenges of Networked Orchestration in Research Communities of Practice",
-        "text": ""
+        "text": "Work and learning communities have become increasingly networked to support their members in developing the skills to solve complex, real-world problems. Though disciplinary knowledge remains important to tackle these problems, working effectively in these modern-day communities of practice demands the ability for one to learn how to access networked support (e.g., venues, tools, resource guides, or peers) throughout the community for one's needs. Against this backdrop, we study networked orchestration--how community members access and learn to access networked supports--in a community of practice for undergraduate research training. Through field observations and in-depth interviews, we find that students in the networked research community dynamically engage with their mentors and peers across multiple venues throughout the week in order to identify, clarify, and resolve their needs. Mentors in the community monitor how students are engaging with the supports available in the network, and provide coaching on effective strategies when students are ineffective on their own. Finally, we surface the challenges involved in each of these processes and offer practical insights for future ecosystem-level networked orchestration technologies that have an understanding of the interactions occurring across the venues and tools in a community, and can support the learning and practice of effective access strategies. Our paper presents important insights for supporting people's work and learning needs in networked future workplaces and learning communities, and provides guidance on designing new technologies for supporting networked ways of working and learning."
       }
     },
     {
