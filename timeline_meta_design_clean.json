@@ -41,44 +41,8 @@
         "year": 2022
       },
       "text": {
-        "headline": "Opportunities for Human-AI Collaboration in Remote Sighted Assistance",
-        "text": ""
-      }
-    },
-    {
-      "start_date": {
-        "year": 2022
-      },
-      "text": {
-        "headline": "Survey: Artificial Intelligence, Computational Thinking and Learning",
-        "text": ""
-      }
-    },
-    {
-      "start_date": {
-        "year": 2022
-      },
-      "text": {
-        "headline": "The effects of interaction between team climates and KMS value perception on knowledge activities: a multilevel socio-technical systems approach",
-        "text": ""
-      }
-    },
-    {
-      "start_date": {
-        "year": 2022
-      },
-      "text": {
-        "headline": "From micro behaviors to macro effects - Agent Based Modeling of environmental awareness spread and its effects on critical resource consumption",
-        "text": ""
-      }
-    },
-    {
-      "start_date": {
-        "year": 2022
-      },
-      "text": {
         "headline": "Architecting A Knowledge-Based Platform for Design Engineering 4.0",
-        "text": ""
+        "text": "In the era of Industry 4.0, with the increase of machine intelligence and the internet of things/services in production systems, one of the ramifications is that it will foster a highly customized and dynamically changing market where more and more customers demand personalized or individualized products. This imposes a challenge to designers who are the decision-makers in the design of these products as well as the systems that support the production of the products. Designers must be able to quickly respond to market variations and make quality decisions. This necessitates a platform for supporting design decisions. To assist in designing and developing such a platform, in this chapter we introduce the paradigm of Industry 4.0 and analyze the features of design decisions and decision workflows in the context of Industry 4.0. Then, we identify the requirements of a platform to support these decisions and decision workflows, and we propose an architecture that meets the requirements of the platform. Finally, we outline the organization of the monograph."
       }
     },
     {
@@ -87,7 +51,7 @@
       },
       "text": {
         "headline": "Promoting Human Competences by Appropriate Modes of Interaction for Human-Centered-AI",
-        "text": ""
+        "text": "There is an ongoing discussion about human-centered AI (HCAI) that emphasizes the value of including humans in the loop. We focus on types of HCAI in the context of machine learning that synergistically combine the complementary strengths of humans and AI and seek to develop competencies and capabilities of both parts. The development of human competencies is a largely neglected aspect compared to criteria such as fairness, trust, or accountability. Based on early discussions about the role of humans in the use of expert systems, the current HCAI discourse, and a literature review, we identify 10 modes of interaction that represent a way of interacting with AI that has the potential to support the development of human competencies relevant to the domain itself, but also to its context and to the use of technologies."
       }
     },
     {
