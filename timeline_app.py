@@ -14,7 +14,7 @@ import streamlit.components.v1 as components
 # must be called as first command
 try:
     st.set_page_config(layout="wide")
-except:
+except Exception:
     st.beta_set_page_config(layout="wide")
 
 
@@ -33,16 +33,16 @@ TL_HEIGHT = 800 # px
 
 # load data
 json_text = ''
-if SOURCE_TYPE == 'json':
-    with open(JSON_PATH, "r") as f:
-        json_text = f.read()
-        source_param = 'timeline_json'
-        source_block = f'var {source_param} = {json_text};'
-elif SOURCE_TYPE == 'gdocs':
+if SOURCE_TYPE == 'gdocs':
     source_param = f'"{GDOCS_PATH}"'
     source_block = ''
 
 
+elif SOURCE_TYPE == 'json':
+    with open(JSON_PATH, "r") as f:
+        json_text = f.read()
+        source_param = 'timeline_json'
+        source_block = f'var {source_param} = {json_text};'
 # load css + js
 if CDN_LOCAL:
     with open(CSS_PATH, "r") as f:
